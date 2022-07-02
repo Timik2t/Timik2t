@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true)  
-![codewars](https://www.codewars.com/users/Timik2t/badges/large)
+![codewars](https://www.codewars.com/users/Timik2t/badges/small)
