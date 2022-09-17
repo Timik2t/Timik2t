@@ -3,7 +3,7 @@ I'm Timur, currently studying backend development on python.
 
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
 
-## STATS :star:
+## STATS :pencil:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true) 
 
