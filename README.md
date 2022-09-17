@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Timur, currently studying backend development on python.
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Timik2t)
+[![GitHub Timik2t](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Timik2t)
 ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true) 
 
