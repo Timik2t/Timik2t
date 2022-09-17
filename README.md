@@ -5,9 +5,11 @@ I'm Timur, currently studying backend development on python.
 
 ## :pager: TECH & TOOLS
 <p>
-<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-tritone-tal-revivo.png"/>
-  </p>
+  <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/>
+  <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
+  <img src="https://img.icons8.com/dusk/64/000000/api-settings.png"/>
+</p>
 
 ## :bar_chart: STATS
 
