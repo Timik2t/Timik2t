@@ -16,6 +16,7 @@ I'm Timur, currently studying backend development on python.
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
   <img src="https://img.icons8.com/ios/50/000000/golang.png"/>
 </p>
+
 ## :bar_chart: STATS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true) 
