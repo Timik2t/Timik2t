@@ -23,10 +23,6 @@ I'm Timur, currently studying backend development on python.
 
 ![codewars](https://www.codewars.com/users/Timik2t/badges/small)
 
-## :yum: Have fun
-(*PS: Refresh the page to see a new meme* :smirk: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
 <p align="right">
   <a href="mailto:gentlylol95@gmail.com">
