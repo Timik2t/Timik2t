@@ -21,7 +21,7 @@ I'm Timur, currently studying backend development on python.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true) 
 
-![Leetcode Stats](https://leetcard.timik2t.cool/Timik2t)
+![Leetcode Stats](https://leetcard.Timik2t.cool/Timik2t)
 
 ![codewars](https://www.codewars.com/users/Timik2t/badges/small)
 
