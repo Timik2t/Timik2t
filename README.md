@@ -9,6 +9,7 @@ I'm Timur, currently studying backend development on python.
   <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/>
   <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
   <img src="https://img.icons8.com/dusk/64/000000/api-settings.png"/>
+  [https://icons8.com/icon/5mbMwDZ796xj/flask](https://icons8.com/icon/5mbMwDZ796xj/flask)
 </p>
 
 ### :dart: In near future
