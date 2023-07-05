@@ -23,8 +23,11 @@
 ## :bar_chart: STATS
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Timik2t)
+
 ![codewars](https://www.codewars.com/users/Timik2t/badges/small)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true) 
+
 
 
 <p align="right">
