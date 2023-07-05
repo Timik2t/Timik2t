@@ -1,4 +1,4 @@
-<h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/l378aQhUvL2ONKe1G/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Timur! <img src="media.giphy.com/media/0t1EmHzePXOrVVJkaM/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l41lMAzNZfYAiyR0s/giphy.gif" width="230">
 
 [![Linkedin: timik2t](https://img.shields.io/badge/-timik2t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timik2t/)](https://www.linkedin.com/in/timik2t/)
