@@ -1,4 +1,4 @@
-<h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l41lMAzNZfYAiyR0s/giphy.gif" width="230">
 
 
