@@ -1,5 +1,5 @@
 <h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/embed/l41lMAzNZfYAiyR0s" width="230">
 I'm Timur, currently studying backend development on python.
 
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
