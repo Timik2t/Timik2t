@@ -1,7 +1,8 @@
 <h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<iframe src="https://giphy.com/embed/l41lMAzNZfYAiyR0s" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nadrient-90s-80s-computer-l41lMAzNZfYAiyR0s">via GIPHY</a></p>
+
 I'm Timur, currently studying backend development on python.
 
+[![Linkedin: timik2t](https://img.shields.io/badge/-timik2t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timik2t/)](https://www.linkedin.com/in/timik2t/)
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
 
 ## :pager: TECH & TOOLS
