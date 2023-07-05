@@ -1,6 +1,5 @@
-<h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/6FxJBpNTBgWdJCXKD4/giphy.gif" width="25"></h2>
+<h2> Hi, I'm Timur! <img src="https://media.giphy.com/media/l378aQhUvL2ONKe1G/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l41lMAzNZfYAiyR0s/giphy.gif" width="230">
-
 
 [![Linkedin: timik2t](https://img.shields.io/badge/-timik2t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timik2t/)](https://www.linkedin.com/in/timik2t/)
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
