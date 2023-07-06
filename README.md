@@ -26,6 +26,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Timik2t" alt="Leetcode Stats" />
+  <img src="https://www.codewars.com/users/Timik2t/badges/small" alt="Codewars" style="clear: both;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true" alt="Top Langs"/>
   <br/>
   <img src="https://www.codewars.com/users/Timik2t/badges/small" alt="Codewars" style="clear: both;" />
