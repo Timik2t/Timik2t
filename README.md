@@ -5,6 +5,7 @@
 
 [![Linkedin: timik2t](https://img.shields.io/badge/-timik2t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timik2t/)](https://www.linkedin.com/in/timik2t/)
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
+<img src="https://komarev.com/ghpvc/?username= Timik2t" alt=" Timik2t" />
 
 ## :pager: TECH & TOOLS
 <p>
