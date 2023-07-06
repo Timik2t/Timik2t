@@ -8,10 +8,33 @@
 <img src="https://komarev.com/ghpvc/?username= Timik2t" alt=" Timik2t" />
 ## About me
 * 
-## :pager: TECH & TOOLS
-| <p align="center"><img src="https://img.icons8.com/dusk/64/000000/python.png" width="35"/><br/>Python</p> | <p align="center"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="35"/><br/>Django</p> |
-| --- | --- |
-| <p align="center"><img src="https://img.icons8.com/dusk/64/000000/docker.png" width="35"/><br/>Docker</p> | <p align="center"><img src="https://img.icons8.com/dusk/64/000000/api-settings.png" width="35"/><br/>API</p> |
+## :pager: TECH & TOOL
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/dusk/64/000000/python.png" width="35" /><br />
+      Python
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="35" /><br />
+      Django
+    </td>
+    <!-- Добавьте дополнительные ячейки столбцов по аналогии -->
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/dusk/64/000000/docker.png" width="35" /><br />
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/dusk/64/000000/api-settings.png" width="35" /><br />
+      API
+    </td>
+    <!-- Добавьте дополнительные ячейки столбцов по аналогии -->
+  </tr>
+</table>
+
 
 ## :bar_chart: STATS
 
