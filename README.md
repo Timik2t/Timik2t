@@ -13,12 +13,6 @@
 | --- | --- |
 | <p align="center"><img src="https://img.icons8.com/dusk/64/000000/docker.png" width="35"/><br/>Docker</p> | <p align="center"><img src="https://img.icons8.com/dusk/64/000000/api-settings.png" width="35"/><br/>API</p> |
 
-## :dart: In near future
-<p>
-  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
-  <img src="https://img.icons8.com/ios/50/000000/golang.png"/>
-</p>
-
 ## :bar_chart: STATS
 
 <div align="center">
