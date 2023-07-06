@@ -7,7 +7,9 @@
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
 <img src="https://komarev.com/ghpvc/?username= Timik2t" alt=" Timik2t" />
 ## About me
-* 
+:student: MPEI (Magister of automation, control and instrumentation). 
+
+:hammer_and_wrench: Senior Engineer in develop automated non-destructive testing systems
 ## :pager: TECH & TOOL
 
 <table>
