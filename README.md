@@ -9,7 +9,7 @@
 ## About me
 :student: MPEI (Magister of automation, control and instrumentation). 
 
-:hammer_and_wrench: Senior Engineer in develop automated non-destructive testing systems
+:hammer_and_wrench: Senior Engineer in develop automated non-destructive ultrasonic testing systems
 ## :pager: TECH & TOOL
 
 <table>
