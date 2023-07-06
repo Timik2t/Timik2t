@@ -25,8 +25,8 @@
 ## :bar_chart: STATS
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Timik2t" alt="Leetcode Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true" alt="Top Langs" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/Timik2t" alt="Leetcode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true" alt="Top Langs" width="360"/>
   <br/>
   <img src="https://www.codewars.com/users/Timik2t/badges/small" alt="Codewars" style="clear: both;" />
 </div>
