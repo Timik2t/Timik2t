@@ -62,7 +62,7 @@
 
 ## :bar_chart: STATS
 
-<div align="center">
+<div align="left">
   <img src="https://leetcard.jacoblin.cool/Timik2t" alt="Leetcode Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true" alt="Top Langs" width="365"/>
   <br/>
