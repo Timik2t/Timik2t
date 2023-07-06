@@ -20,6 +20,18 @@
       <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="35" /><br />
       Django
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/flask.png" width="35" /><br />
+      Flask
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/plasticine/100/lightning-bolt--v1.png" width="35" /><br />
+      FastAPI
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/plasticine/100/postgreesql.png" width="35" /><br />
+      PostgreSQL
+    </td>
     <!-- Добавьте дополнительные ячейки столбцов по аналогии -->
   </tr>
   <tr>
@@ -30,6 +42,18 @@
     <td align="center">
       <img src="https://img.icons8.com/dusk/64/000000/api-settings.png" width="35" /><br />
       API
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/linux--v1.png" width="35" /><br />
+      Linux
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/automatic.png" width="35" /><br />
+      CI/CD
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/dusk/64/database.png" width="35" /><br />
+      SQL
     </td>
     <!-- Добавьте дополнительные ячейки столбцов по аналогии -->
   </tr>
