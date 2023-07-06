@@ -9,14 +9,11 @@
 ## About me
 * 
 ## :pager: TECH & TOOLS
-<p>
-  <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/api-settings.png"/>
-</p>
+| <p align="center"><img src="https://img.icons8.com/dusk/64/000000/python.png" width="35"/><br/>Python</p> | <p align="center"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="35"/><br/>Django</p> |
+| --- | --- |
+| <p align="center"><img src="https://img.icons8.com/dusk/64/000000/docker.png" width="35"/><br/>Docker</p> | <p align="center"><img src="https://img.icons8.com/dusk/64/000000/api-settings.png" width="35"/><br/>API</p> |
 
-### :dart: In near future
+## :dart: In near future
 <p>
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
   <img src="https://img.icons8.com/ios/50/000000/golang.png"/>
