@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Timik2t" alt="Leetcode Stats" style="float: left; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true" alt="Top Langs" style="float: right; margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timik2t&layout=compact&hide_border=true" alt="Top Langs" width="365" style="float: right; margin-left: 10px;" />
   <br/>
   <img src="https://www.codewars.com/users/Timik2t/badges/small" alt="Codewars" style="clear: both;" />
 </div>
