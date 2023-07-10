@@ -9,9 +9,14 @@
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
 <img src="https://komarev.com/ghpvc/?username= Timik2t" alt=" Timik2t" />
 ## About me
+💻 Python developer
+  
 :student: MPEI (Magister of automation, control and instrumentation). 
 
 :hammer_and_wrench: Senior Engineer in develop automated non-destructive ultrasonic testing systems
+
+Feel free to reach out to me to discuss any Python development opportunities or collaboration prospects. Let's connect and create impactful solutions together!
+
 ## :pager: TECH & TOOL
 
 <table>
