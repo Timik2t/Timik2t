@@ -3,7 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/l41lMAzNZfYAiyR0s/giphy.gif" width="230">
 
 
-[![Linkedin: timik2t](https://img.shields.io/badge/-timik2t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timik2t/)](https://www.linkedin.com/in/timik2t/)
+[![Linkedin: timik2t](https://img.shields.io/badge/-Timik2t-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timik2t/)](https://www.linkedin.com/in/timik2t/)
+[![Gmail:gentlylol95@gmail.com](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gentlylol95@gmail.com)](mailto:gentlylol95@gmail.com)
+
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
 <img src="https://komarev.com/ghpvc/?username= Timik2t" alt=" Timik2t" />
 ## About me
