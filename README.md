@@ -9,7 +9,7 @@
 [![GitHub Timik2t](https://img.shields.io/github/followers/Timik2t?label=follow&style=social)](https://github.com/Timik2t)
 <img src="https://komarev.com/ghpvc/?username= Timik2t" alt=" Timik2t" />
 ## About me
-💻 Python developer
+💻 Python developer (FastAPI, Kaffka, Docker)
   
 :student: MPEI (Magister of automation, control and instrumentation). 
 
